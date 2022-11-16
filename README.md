@@ -18,7 +18,9 @@ At the beginning the move is accelarating (until the half of the distance) and t
 ![image](https://user-images.githubusercontent.com/93796754/202317531-93f862dc-e603-491e-a501-984290561183.png)
 ![image](https://user-images.githubusercontent.com/93796754/202319144-fcf6a302-940a-450c-981a-7001fd6b36e1.png)
 ![image](https://user-images.githubusercontent.com/93796754/202320119-ed8eaf6f-712e-49a9-a35d-b6c90cca4ac9.png)
+
 When the pawn touches the ground, it breaks.
+
 ![image](https://user-images.githubusercontent.com/93796754/202320235-d00289af-d53e-4f55-8d89-b9f28f858d56.png)
 ![image](https://user-images.githubusercontent.com/93796754/202320263-7bbb9329-3060-457e-876a-40eb34851a50.png)
 
