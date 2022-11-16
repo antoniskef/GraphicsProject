@@ -16,3 +16,5 @@ At the beginning the move is accelarating (until the half of the distance) and t
 
 ## Eat Pawn 
 ![image](https://user-images.githubusercontent.com/93796754/202317531-93f862dc-e603-491e-a501-984290561183.png)
+![image](https://user-images.githubusercontent.com/93796754/202319144-fcf6a302-940a-450c-981a-7001fd6b36e1.png)
+
