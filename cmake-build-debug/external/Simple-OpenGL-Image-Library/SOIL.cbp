@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SOIL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\external\;CMake Files\external\rpavlik-cmake-modules-fe2273\;CMake Files\external\rpavlik-cmake-modules-fe2273\launcher-templates\;CMake Files\external\glfw-3.2.1\;CMake Files\external\glfw-3.2.1\CMake\;CMake Files\external\glfw-3.2.1\CMake\modules\;CMake Files\external\glfw-3.2.1\src\;CMake Files\external\Simple-OpenGL-Image-Library\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SOIL">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/libSOIL_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 SOIL"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SOIL/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/libSOIL_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 SOIL/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/SOIL.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/image_DXT.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/image_helper.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/stb_image_aug.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/stbi_DDS_aug.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/stbi_DDS_aug_c.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/SOIL.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_DXT.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_helper.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/FindGDB.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.sh.in">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\launcher-templates\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\Simple-OpenGL-Image-Library\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

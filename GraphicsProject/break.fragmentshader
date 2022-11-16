@@ -1,0 +1,12 @@
+#version 330 core
+
+// input data
+in vec4 colorToFrag;
+
+// output data
+out vec4 fragmentColor;
+
+void main()
+{
+    fragmentColor = colorToFrag;
+}

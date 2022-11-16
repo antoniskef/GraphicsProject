@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chess"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\external\;CMake Files\external\rpavlik-cmake-modules-fe2273\;CMake Files\external\rpavlik-cmake-modules-fe2273\launcher-templates\;CMake Files\external\glfw-3.2.1\;CMake Files\external\glfw-3.2.1\CMake\;CMake Files\external\glfw-3.2.1\CMake\modules\;CMake Files\external\glfw-3.2.1\src\;CMake Files\external\Simple-OpenGL-Image-Library\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphicsProject">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/GraphicsProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/."/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphicsProject"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GraphicsProject/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/GraphicsProject" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/."/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 GraphicsProject/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TINYXML2">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/libTINYXML2_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 TINYXML2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TINYXML2/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/libTINYXML2_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 TINYXML2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GLEW_1130">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/libGLEW_1130_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 GLEW_1130"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GLEW_1130/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/libGLEW_1130_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 GLEW_1130/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/libglfw3_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 glfw"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/libglfw3_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 glfw/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SOIL">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/libSOIL_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 SOIL"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SOIL/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/libSOIL_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 SOIL/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Depth.fragmentshader">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Depth.vertexshader">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/allSquares.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/allSquares.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/play.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/play.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/square.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/square.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/start.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/start.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/bishop.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/bishop.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/board.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/board.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/horse.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/horse.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/king.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/king.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/objects.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/objects.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particle.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particle.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particleSystem.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particleSystem.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/pawn.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/pawn.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/piece.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/piece.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/queen.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/queen.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/tower.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/tower.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/fragment.fragmentshader">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/main.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/particle.fragmentshader">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/particle.vertexshader">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/vertex.vertexshader">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/glfw_config.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/RigidBody.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/RigidBody.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/camera.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/camera.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/light.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/light.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/model.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/model.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/shader.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/shader.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/texture.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/texture.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/util.cpp">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/common/util.h">
+			<Option target="GraphicsProject"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/SOIL.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/image_DXT.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/image_helper.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/stb_image_aug.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/stbi_DDS_aug.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include/stbi_DDS_aug_c.h">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/SOIL.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_DXT.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_helper.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c">
+			<Option target="SOIL"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/src/glew.c">
+			<Option target="GLEW_1130"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW/glfw3.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW/glfw3native.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_init.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_joystick.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_joystick.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_monitor.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_platform.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_time.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_window.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/input.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/internal.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/nsgl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/nsgl_context.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/posix_tls.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/posix_tls.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/vulkan.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include/tinyxml2.h">
+			<Option target="TINYXML2"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/src/tinyxml2.cpp">
+			<Option target="TINYXML2"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/FindGDB.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.sh.in">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\launcher-templates\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\Simple-OpenGL-Image-Library\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GLFW"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\external\;CMake Files\external\rpavlik-cmake-modules-fe2273\;CMake Files\external\rpavlik-cmake-modules-fe2273\launcher-templates\;CMake Files\external\glfw-3.2.1\;CMake Files\external\glfw-3.2.1\CMake\;CMake Files\external\glfw-3.2.1\CMake\modules\;CMake Files\external\glfw-3.2.1\src\;CMake Files\external\Simple-OpenGL-Image-Library\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/libglfw3_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 glfw"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw/fast">
+				<Option output="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/libglfw3_d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-DTW_STATIC"/>
+					<Add option="-DTW_NO_LIB_PRAGMA"/>
+					<Add option="-DTW_NO_DIRECT3D"/>
+					<Add option="-DGLEW_STATIC"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src"/>
+					<Add directory="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 glfw/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src/glfw_config.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW/glfw3.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW/glfw3native.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_init.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_joystick.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_joystick.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_monitor.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_platform.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_time.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_window.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/input.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/internal.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/nsgl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/nsgl_context.m">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/posix_tls.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/posix_tls.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/vulkan.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/FindGDB.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.sh.in">
+			<Option virtualFolder="CMake Files\external\rpavlik-cmake-modules-fe2273\launcher-templates\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\external\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\external\Simple-OpenGL-Image-Library\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

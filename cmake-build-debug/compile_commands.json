@@ -1,0 +1,212 @@
+[
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/main.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/main.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/main.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/util.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/util.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/util.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/shader.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/shader.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/shader.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/camera.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/camera.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/camera.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/model.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/model.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/model.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/texture.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/texture.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/texture.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/light.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/light.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/light.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/common/RigidBody.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/common/RigidBody.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/common/RigidBody.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/board.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/board.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/board.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/pawn.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/pawn.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/pawn.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/objects.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/objects.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/objects.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/tower.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/tower.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/tower.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/piece.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/piece.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/piece.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/bishop.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/bishop.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/bishop.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Game/start.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/start.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/start.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/horse.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/horse.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/horse.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/queen.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/queen.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/queen.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/king.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/king.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/king.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Game/play.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/play.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/play.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Game/square.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/square.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/square.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Game/allSquares.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/allSquares.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Game/allSquares.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/particle.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particle.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particle.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glm-0.9.7.1 -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyobjloader/include -I/Users/antoniskefallonitis/GraphicsProject/. -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GraphicsProject.dir/GraphicsProject/Objects/particleSystem.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particleSystem.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/GraphicsProject/Objects/particleSystem.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include  -std=c++11 -stdlib=libc++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/TINYXML2.dir/tinyxml2/src/tinyxml2.cpp.o -c /Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/src/tinyxml2.cpp",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/src/tinyxml2.cpp"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -I/Users/antoniskefallonitis/GraphicsProject/external/tinyxml2/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/src/glew.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/src/glew.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/context.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/context.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/context.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/init.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/init.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/init.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/input.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/input.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/input.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/monitor.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/monitor.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/vulkan.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/vulkan.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/window.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/window.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/window.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_init.m",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_init.m"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_joystick.m",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_joystick.m"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_monitor.m",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_monitor.m"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_window.m",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_window.m"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_time.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/cocoa_time.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/posix_tls.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/posix_tls.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/posix_tls.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src -I/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/glfw-3.2.1/src -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -fPIC -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/nsgl_context.m",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/src/nsgl_context.m"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/SOIL.dir/src/SOIL.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/SOIL.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/SOIL.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/SOIL.dir/src/image_DXT.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_DXT.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_DXT.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/SOIL.dir/src/image_helper.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_helper.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/image_helper.c"
+},
+{
+  "directory": "/Users/antoniskefallonitis/GraphicsProject/cmake-build-debug/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/antoniskefallonitis/GraphicsProject/external/glfw-3.2.1/include/GLFW -I/Users/antoniskefallonitis/GraphicsProject/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/Library/Frameworks -I/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/SOIL.dir/src/stb_image_aug.c.o -c /Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c",
+  "file": "/Users/antoniskefallonitis/GraphicsProject/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c"
+}
+]
