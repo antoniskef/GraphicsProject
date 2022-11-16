@@ -11,3 +11,8 @@ With keys K, H U, J I, Y the light source moves towards all directions.
 The possible moves of each pawn are indicated on the chessboard by clicking on the square of the pawn of interest. 
 ![image](https://user-images.githubusercontent.com/93796754/202316623-6e1a19f9-0e2d-4378-9687-c1f047933d6e.png)
 
+## Pawn's Move 
+At the beginning the move is accelarating (until the half of the distance) and then decelerating. 
+
+## Eat Pawn 
+![image](https://user-images.githubusercontent.com/93796754/202317531-93f862dc-e603-491e-a501-984290561183.png)
