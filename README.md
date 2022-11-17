@@ -29,6 +29,7 @@ When the queen is captured, if a pawn reaches the last line, the queen revives. 
 ![image](https://user-images.githubusercontent.com/93796754/202320510-caccda87-fb84-42c4-849b-8a373a145ac8.png)
 ![image](https://user-images.githubusercontent.com/93796754/202320944-c5e293c1-1709-4133-8ec1-c320cd8fa5d3.png)
 
-
+## Save and Load Game 
+With P the game status can be saved and with P a previous state can be loaded. 
 
 
